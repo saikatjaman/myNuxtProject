@@ -1,4 +1,4 @@
-# master-nuxtjs
+# Weather-nuxtjs
 
 > My glorious Nuxt.js project
 
